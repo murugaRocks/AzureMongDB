@@ -9,7 +9,7 @@
   <ItemGroup>
     <PackageReference Include="Azure.Messaging.EventHubs" Version="5.0.1" />
     <PackageReference Include="MahApps.Metro" Version="1.6.5" />
-    <PackageReference Include="Newtonsoft.Json" Version="11.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
     <PackageReference Include="System.Management" Version="4.7.0" />
   </ItemGroup>
 
